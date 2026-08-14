@@ -13,6 +13,7 @@ assessmentButton.addEventListener(
       return;
     }
 
+    
     // 診断結果表示エリアの作成
     resultDivision.innerText = '';
     const header = document.createElement('h3');
